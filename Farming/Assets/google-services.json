@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1072818649192",
+    "firebase_url": "https://farming-54871-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "farming-54871",
+    "storage_bucket": "farming-54871.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072818649192:android:db5faf7ed58e494f5ee3dd",
+        "android_client_info": {
+          "package_name": "com.tuan1611.farming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3LqsGVEAG7ETu_HO0Jl-zBpmOa2ksXrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
