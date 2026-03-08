@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b372a153ff74d609a39af249e60e79, type: 3}
+  m_Name: CropDatabase
+  m_EditorClassIdentifier: 
+  crops:
+  - CropId: 0
+    CropName: Ngo
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: 31b68bb88f518430d94516ac2523eabd, type: 3}
+    - {fileID: 21300000, guid: f8159ece134c648009ad2d9a9e5e037d, type: 3}
+    - {fileID: 21300000, guid: 789e0ef880da045d5886524293c5a37e, type: 3}
+    - {fileID: 21300000, guid: 8441508a548d9428883e7a69b1954917, type: 3}
+    - {fileID: 21300000, guid: 99a152f7cf49949798d27b04165fa8bd, type: 3}
+    - {fileID: 21300000, guid: 64566715ada1245fc962651ab11ca1ab, type: 3}
+    - {fileID: 21300000, guid: 65f4f3be16c1e4c6b8c67a2f6cc8563a, type: 3}
+    RewardIcon: {fileID: 21300000, guid: d5edc018ee9ec414c9eaf8d3b10ed915, type: 3}
+  - CropId: 1
+    CropName: rau
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: c44f08f28ee8140d7b5b7e4b38640a10, type: 3}
+    - {fileID: 21300000, guid: c61c33661d9094b138a7367f613bdea7, type: 3}
+    - {fileID: 21300000, guid: 06cf7733243f54e6b8929047e3fcfe25, type: 3}
+    - {fileID: 21300000, guid: 260908b76154042eb8b6c259a19d87a6, type: 3}
+    - {fileID: 21300000, guid: 20ef523310b4d4bd592096c63b4c21a5, type: 3}
+    - {fileID: 21300000, guid: 4cd3500b0cf4e4c2cb169c19f43c2658, type: 3}
+    - {fileID: 21300000, guid: 15a4632647f004774904220c7fdab360, type: 3}
+    RewardIcon: {fileID: 21300000, guid: 17eb0f7cc633140fe8936cdf9ade46e5, type: 3}
+  - CropId: 2
+    CropName: dua leo
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: daead8226391c4832a138dc42664b900, type: 3}
+    - {fileID: 21300000, guid: 99b9c943a79cd43dc8db6ed7fe0e05ba, type: 3}
+    - {fileID: 21300000, guid: 79cd4f1fe87654224af7dca673cc4044, type: 3}
+    - {fileID: 21300000, guid: fbc70dfda6d73454882ac86100fd437f, type: 3}
+    - {fileID: 21300000, guid: 1fd5197106ca54ad2b869f7712183538, type: 3}
+    - {fileID: 21300000, guid: 1f32bb64375fe45109e42152c062dda6, type: 3}
+    - {fileID: 21300000, guid: 561087775adbd48b6b355f500bb9cc82, type: 3}
+    RewardIcon: {fileID: 21300000, guid: 17eb0f7cc633140fe8936cdf9ade46e5, type: 3}
+  - CropId: 3
+    CropName: ca tim
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: f638a20dfdc0c4886b5eb1da8ad16db5, type: 3}
+    - {fileID: 21300000, guid: 077b05fdcfaa14923b27d6add79c8456, type: 3}
+    - {fileID: 21300000, guid: 863305037903042d2a5d609c49551145, type: 3}
+    - {fileID: 21300000, guid: c23bd5c6aa6f04cd0aa61d1faff6a0e6, type: 3}
+    - {fileID: 21300000, guid: 569dce15c6d8745a3974e40e2bab94c4, type: 3}
+    - {fileID: 21300000, guid: 16e8e064bf9854e12a5d5cdde4be8b19, type: 3}
+    - {fileID: 21300000, guid: 229e8b49bc71f458a92e0e78680bf437, type: 3}
+    RewardIcon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}
+  - CropId: 4
+    CropName: Toi
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: c1e3a30e7cf5d4952a735e627e269053, type: 3}
+    - {fileID: 21300000, guid: 61efdbb09d06c458c8c4e2016e441be0, type: 3}
+    - {fileID: 21300000, guid: 3e230db6993f049f588a172dd1276d30, type: 3}
+    - {fileID: 21300000, guid: e67007b795064417fb0ff8cc3d1decff, type: 3}
+    - {fileID: 21300000, guid: 83e8873625756451d977e1cc54f11f68, type: 3}
+    - {fileID: 21300000, guid: 700ebfdac357b4240a33a81ce2b76c04, type: 3}
+    - {fileID: 21300000, guid: b991e05a1c20f43e08fa626cdf57143b, type: 3}
+    RewardIcon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}
+  - CropId: 5
+    CropName: dau tay
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: 2874da7558fb8448898498cbee21f95a, type: 3}
+    - {fileID: 21300000, guid: 1e631c4ee421d4c32bd3e7f5de78756c, type: 3}
+    - {fileID: 21300000, guid: bfdfbb26f086a4e57a0ab2ee368a14c3, type: 3}
+    - {fileID: 21300000, guid: e2272bac09a7346a19848428485e6731, type: 3}
+    - {fileID: 21300000, guid: 7c0f778c61b75467880ae6b2e4d318f6, type: 3}
+    - {fileID: 21300000, guid: 4f7824ae56e1f4f41b47df6d30024543, type: 3}
+    - {fileID: 21300000, guid: c4b6c608ce0d846e6a091df2a570167c, type: 3}
+    RewardIcon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}
+  - CropId: 6
+    CropName: Chuoi
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: 486cd748b870040c1b57c03591326be3, type: 3}
+    - {fileID: 21300000, guid: b1f60ea57f98c43c0a203a8ea2729ac7, type: 3}
+    - {fileID: 21300000, guid: 1604043c17c61427aba2814429a30e72, type: 3}
+    - {fileID: 21300000, guid: 2b8d51a5135ae43b7b32c5ccc23931e2, type: 3}
+    - {fileID: 21300000, guid: af2aa6912e15c4e20945bc11f20af8d7, type: 3}
+    - {fileID: 21300000, guid: 415a0283558a1400d80014ee3cbf7576, type: 3}
+    - {fileID: 21300000, guid: 942f75cf723884a16a2650cc32df354e, type: 3}
+    RewardIcon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}
+  - CropId: 7
+    CropName: dao
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: 2fcd8738fa77c4acb9f69522ebc71525, type: 3}
+    - {fileID: 21300000, guid: add2186c201f44e8aa6f3b40dbcf298b, type: 3}
+    - {fileID: 21300000, guid: b0d76842e34c34a44835e6c9422edcc3, type: 3}
+    - {fileID: 21300000, guid: 6440a5a957d464778aa119a043219dc7, type: 3}
+    - {fileID: 21300000, guid: 7de91d2e121ba4d56ad16e39c17a599f, type: 3}
+    - {fileID: 21300000, guid: 821bf343ee04447548d983043ae61862, type: 3}
+    - {fileID: 21300000, guid: a6ca491c186e649d99f4f59dcf566c33, type: 3}
+    RewardIcon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}
+  - CropId: 8
+    CropName: man xoi
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: 864922c2fe5544adfb1625f116b3d30a, type: 3}
+    - {fileID: 21300000, guid: cb8e2897b42af432f87fa07cec649a93, type: 3}
+    - {fileID: 21300000, guid: 5084261fcaeed4f108725f49028797aa, type: 3}
+    - {fileID: 21300000, guid: 857c2af3dbaf54fb9a8bef5699dc895e, type: 3}
+    - {fileID: 21300000, guid: 7cc2fb169549041098cca92c3c216af7, type: 3}
+    - {fileID: 21300000, guid: f6f06db2e77bb4ff3aee6578b6173c84, type: 3}
+    - {fileID: 21300000, guid: 769ea754ad54945158abfc39ffad4efb, type: 3}
+    RewardIcon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}
+  - CropId: 9
+    CropName: violet
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: 2f1c7b5fd043d4fc9a20077403b5ecfd, type: 3}
+    - {fileID: 21300000, guid: 02dc9c35adf364d1f9b1c37d65b93249, type: 3}
+    - {fileID: 21300000, guid: e66022f3a7e624341a2059da450b00fd, type: 3}
+    - {fileID: 21300000, guid: c7ef665c1feb9404f9c08a0b55412480, type: 3}
+    - {fileID: 21300000, guid: 3f3d5bc5d6e79438ba15e2aba15a3760, type: 3}
+    - {fileID: 21300000, guid: 4df34315e586c44f3834e0f27bd06125, type: 3}
+    - {fileID: 21300000, guid: 8d8d47d6de39744869d50c301be0312d, type: 3}
+    RewardIcon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}
+  - CropId: 10
+    CropName: Hoa sen
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: 5882b0965415c492d982b9f3b3f21b92, type: 3}
+    - {fileID: 21300000, guid: 4946e54e9cd2049e7b576b3c3e4bea61, type: 3}
+    - {fileID: 21300000, guid: 7fb656c2ad2004e59b6d798d395fca5e, type: 3}
+    - {fileID: 21300000, guid: d5d35cc80647c4417a575759c28b3c45, type: 3}
+    - {fileID: 21300000, guid: d3ddf602bbc1c44018e8441a6bfef87a, type: 3}
+    - {fileID: 21300000, guid: 3d5fd616ca2da4979b5bac501d4b520a, type: 3}
+    - {fileID: 21300000, guid: 318ea815fcbfa41c6bde263e5de2f5d2, type: 3}
+    RewardIcon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}
+  - CropId: 11
+    CropName: bi ngo
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: 719f4e105903f4460b252446ae131e6d, type: 3}
+    - {fileID: 21300000, guid: 9628a6888fd4048c3a0ed1ed0ef9bcfc, type: 3}
+    - {fileID: 21300000, guid: 25489702e23654f7f87faf537f2be8ff, type: 3}
+    - {fileID: 21300000, guid: ffe322ab6c1ef4426b1927f95dbb7f39, type: 3}
+    - {fileID: 21300000, guid: aa83e25ff58854dfe8cffdfdc736747e, type: 3}
+    - {fileID: 21300000, guid: 5702490b2a49e4055ab960d0cf94ef0b, type: 3}
+    - {fileID: 21300000, guid: e33eca9704f2747e886743d224b14868, type: 3}
+    RewardIcon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}
+  - CropId: 12
+    CropName: khoai tay
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: 48c7533ad5d394f20be7dea45ff03f2e, type: 3}
+    - {fileID: 21300000, guid: 62fa2a79afabf4bb7bbe09100448468e, type: 3}
+    - {fileID: 21300000, guid: d444e0220a2be4dcc80808637d53720d, type: 3}
+    - {fileID: 21300000, guid: 1280296629ff24ca5b7fa6a3cae032c2, type: 3}
+    - {fileID: 21300000, guid: 369d3b954137b4516a4eae39460b6cd7, type: 3}
+    - {fileID: 21300000, guid: 2df4fb03e942b4dd8952af18541b9b36, type: 3}
+    - {fileID: 21300000, guid: 06a168bffcd364cdfa977e7a7b079135, type: 3}
+    RewardIcon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}
+  - CropId: 13
+    CropName: Ot
+    SeedIcon: {fileID: 0}
+    GrowthSprites:
+    - {fileID: 21300000, guid: 3040b65c25428426ca650196b34fc872, type: 3}
+    - {fileID: 21300000, guid: 1192badcd1279426d809077070c69be1, type: 3}
+    - {fileID: 21300000, guid: 423968f7f5f8f4c788d184818590b1db, type: 3}
+    - {fileID: 21300000, guid: 358417e9ff2394f27915235d66615c3e, type: 3}
+    - {fileID: 21300000, guid: 4e99455e59a984065aca80fa376e8cd6, type: 3}
+    - {fileID: 21300000, guid: 2ba1ef1774d7746d3988466c76818a85, type: 3}
+    - {fileID: 21300000, guid: 7898c1f8f290644d3af07dc9c0f927d5, type: 3}
+    RewardIcon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}

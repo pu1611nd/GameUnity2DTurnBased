@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31186a8daf0dd4bb6b42dd41e5ddf884, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  items:
+  - idItem: 0
+    itemName: Ngo
+    icon: {fileID: 21300000, guid: d5edc018ee9ec414c9eaf8d3b10ed915, type: 3}
+    category: 0
+  - idItem: 1
+    itemName: Rau
+    icon: {fileID: 21300000, guid: bbf03ad9d28314bf4951a8be70810357, type: 3}
+    category: 0
+  - idItem: 2
+    itemName: Dua leo
+    icon: {fileID: 21300000, guid: b3347ef79accf4715b73bceae90560e8, type: 3}
+    category: 0
+  - idItem: 3
+    itemName: Ca tim
+    icon: {fileID: 21300000, guid: a4b8f29df949b476fb5cf3ce3a219238, type: 3}
+    category: 0
+  - idItem: 4
+    itemName: Toi
+    icon: {fileID: 21300000, guid: 6cbf0536b0fae49ebae39a4c6166161c, type: 3}
+    category: 0
+  - idItem: 5
+    itemName: Dau tay
+    icon: {fileID: 21300000, guid: 27cbb7634194a418fa712ec32a74340b, type: 3}
+    category: 0
+  - idItem: 6
+    itemName: Chuoi
+    icon: {fileID: 21300000, guid: 17eb0f7cc633140fe8936cdf9ade46e5, type: 3}
+    category: 0
+  - idItem: 7
+    itemName: Dao
+    icon: {fileID: 21300000, guid: 7f2fdf872983549c0b198c1b67b4e23f, type: 3}
+    category: 0
+  - idItem: 8
+    itemName: mam xoi
+    icon: {fileID: 21300000, guid: e1b70e16259d7417f81f1704b688ef1f, type: 3}
+    category: 0
+  - idItem: 9
+    itemName: Hoa violet
+    icon: {fileID: 21300000, guid: bec7a1c0d1be940cbae13250c103d2fd, type: 3}
+    category: 0
+  - idItem: 10
+    itemName: hoa sen
+    icon: {fileID: 21300000, guid: 4b3fd1c6c55fd460c9c09222f7fca08b, type: 3}
+    category: 0
+  - idItem: 11
+    itemName: Bi ngo
+    icon: {fileID: 21300000, guid: 664265bedb00748308ea21e9e2524f22, type: 3}
+    category: 0
+  - idItem: 12
+    itemName: Khoai tay
+    icon: {fileID: 21300000, guid: e51962e3d25af4eb79bce69115f032eb, type: 3}
+    category: 0
+  - idItem: 13
+    itemName: ot
+    icon: {fileID: 21300000, guid: 0803b67ff92a949a9a8e8351eb609e59, type: 3}
+    category: 0
+  - idItem: 0
+    itemName: Ngo
+    icon: {fileID: 21300000, guid: eee87a6697602490e991e975c523af4a, type: 3}
+    category: 1
+  - idItem: 1
+    itemName: Rau
+    icon: {fileID: 21300000, guid: a059ecf9a6184434e896e6280d9afdb5, type: 3}
+    category: 1
+  - idItem: 3
+    itemName: Ca tim
+    icon: {fileID: 21300000, guid: d56ed75b8e4b5490c88347474cf916fb, type: 3}
+    category: 1
+  - idItem: 4
+    itemName: toi
+    icon: {fileID: 21300000, guid: 63ebc1de8130940938beff692b004549, type: 3}
+    category: 1
+  - idItem: 5
+    itemName: Dau tay
+    icon: {fileID: 21300000, guid: 09f1b0d90ab1e4ae8a9c86c7eb375814, type: 3}
+    category: 1
+  - idItem: 6
+    itemName: Chuoi
+    icon: {fileID: 21300000, guid: 17eb0f7cc633140fe8936cdf9ade46e5, type: 3}
+    category: 1
+  - idItem: 7
+    itemName: Dao
+    icon: {fileID: 21300000, guid: 7f2fdf872983549c0b198c1b67b4e23f, type: 3}
+    category: 1
+  - idItem: 8
+    itemName: mam xoii
+    icon: {fileID: 21300000, guid: e1b70e16259d7417f81f1704b688ef1f, type: 3}
+    category: 1
+  - idItem: 9
+    itemName: 'violet '
+    icon: {fileID: 21300000, guid: bec7a1c0d1be940cbae13250c103d2fd, type: 3}
+    category: 1
+  - idItem: 10
+    itemName: Hoa sen
+    icon: {fileID: 21300000, guid: 4b3fd1c6c55fd460c9c09222f7fca08b, type: 3}
+    category: 1
+  - idItem: 11
+    itemName: Bi ngo
+    icon: {fileID: 21300000, guid: 664265bedb00748308ea21e9e2524f22, type: 3}
+    category: 1
+  - idItem: 12
+    itemName: Khoai tay
+    icon: {fileID: 21300000, guid: e51962e3d25af4eb79bce69115f032eb, type: 3}
+    category: 1
+  - idItem: 13
+    itemName: ot
+    icon: {fileID: 21300000, guid: 0803b67ff92a949a9a8e8351eb609e59, type: 3}
+    category: 1
+  - idItem: 2
+    itemName: dua leo
+    icon: {fileID: 21300000, guid: 074eab233e6764de596849c087dc4ef1, type: 3}
+    category: 1
+  - idItem: 0
+    itemName: Ga con
+    icon: {fileID: 180143589, guid: 31e75b42b059e4e9eb4ad9099ec3cf94, type: 3}
+    category: 4
+  - idItem: 1
+    itemName: bo
+    icon: {fileID: -1280915130, guid: 8d3680ddd33794e3085c868b1d514098, type: 3}
+    category: 4
+  - idItem: 2
+    itemName: lon
+    icon: {fileID: -1812337225, guid: 34209091f85764ca7863ad9f5e10552b, type: 3}
+    category: 4
